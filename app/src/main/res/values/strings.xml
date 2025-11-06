@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RatingOleg</string>
+    <string name="app">меньше</string>
+    <string name="app2">больше</string>
+    <string name="app3">в точку</string>
+    <string name="app22">введите число от 1 до 10</string>
 </resources>
